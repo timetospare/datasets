@@ -1,0 +1,1988 @@
+[
+        {
+            "Area code": "E06000001",
+            "Area name": "Hartlepool",
+            " number ": " 87,544 ",
+            "percent": "97.90"
+        },
+        {
+            "Area code": "E06000002",
+            "Area name": "Middlesbrough",
+            " number ": " 128,306 ",
+            "percent": "92.43"
+        },
+        {
+            "Area code": "E06000003",
+            "Area name": "Redcar and Cleveland",
+            " number ": " 131,197 ",
+            "percent": "98.90"
+        },
+        {
+            "Area code": "E06000004",
+            "Area name": "Stockton-on-Tees",
+            " number ": " 184,786 ",
+            "percent": "97.02"
+        },
+        {
+            "Area code": "E06000005",
+            "Area name": "Darlington",
+            " number ": " 100,200 ",
+            "percent": "95.79"
+        },
+        {
+            "Area code": "E06000006",
+            "Area name": "Halton",
+            " number ": " 121,114 ",
+            "percent": "97.34"
+        },
+        {
+            "Area code": "E06000007",
+            "Area name": "Warrington",
+            " number ": " 193,572 ",
+            "percent": "94.56"
+        },
+        {
+            "Area code": "E06000008",
+            "Area name": "Blackburn with Darwen",
+            " number ": " 130,160 ",
+            "percent": "87.53"
+        },
+        {
+            "Area code": "E06000009",
+            "Area name": "Blackpool",
+            " number ": " 130,665 ",
+            "percent": "95.58"
+        },
+        {
+            "Area code": "E06000010",
+            "Area name": "Kingston upon Hull, City of",
+            " number ": " 231,761 ",
+            "percent": "89.98"
+        },
+        {
+            "Area code": "E06000011",
+            "Area name": "East Riding of Yorkshire",
+            " number ": " 326,484 ",
+            "percent": "97.81"
+        },
+        {
+            "Area code": "E06000012",
+            "Area name": "North East Lincolnshire",
+            " number ": " 146,176 ",
+            "percent": "96.13"
+        },
+        {
+            "Area code": "E06000013",
+            "Area name": "North Lincolnshire",
+            " number ": " 154,264 ",
+            "percent": "93.61"
+        },
+        {
+            "Area code": "E06000014",
+            "Area name": "York",
+            " number ": " 187,680 ",
+            "percent": "94.91"
+        },
+        {
+            "Area code": "E06000015",
+            "Area name": "Derby",
+            " number ": " 219,616 ",
+            "percent": "87.05"
+        },
+        {
+            "Area code": "E06000016",
+            "Area name": "Leicester",
+            " number ": " 248,771 ",
+            "percent": "69.96"
+        },
+        {
+            "Area code": "E06000017",
+            "Area name": "Rutland",
+            " number ": " 39,386 ",
+            "percent": "98.08"
+        },
+        {
+            "Area code": "E06000018",
+            "Area name": "Nottingham",
+            " number ": " 268,420 ",
+            "percent": "85.68"
+        },
+        {
+            "Area code": "E06000019",
+            "Area name": "Herefordshire, County of",
+            " number ": " 173,475 ",
+            "percent": "95.23"
+        },
+        {
+            "Area code": "E06000020",
+            "Area name": "Telford and Wrekin",
+            " number ": " 167,409 ",
+            "percent": "93.36"
+        },
+        {
+            "Area code": "E06000021",
+            "Area name": "Stoke-on-Trent",
+            " number ": " 227,019 ",
+            "percent": "91.17"
+        },
+        {
+            "Area code": "E06000022",
+            "Area name": "Bath and North East Somerset",
+            " number ": " 178,953 ",
+            "percent": "95.10"
+        },
+        {
+            "Area code": "E06000023",
+            "Area name": "Bristol, City of",
+            " number ": " 410,701 ",
+            "percent": "89.88"
+        },
+        {
+            "Area code": "E06000024",
+            "Area name": "North Somerset",
+            " number ": " 202,255 ",
+            "percent": "96.07"
+        },
+        {
+            "Area code": "E06000025",
+            "Area name": "South Gloucestershire",
+            " number ": " 265,801 ",
+            "percent": "94.62"
+        },
+        {
+            "Area code": "E06000026",
+            "Area name": "Plymouth",
+            " number ": " 245,374 ",
+            "percent": "95.50"
+        },
+        {
+            "Area code": "E06000027",
+            "Area name": "Torbay",
+            " number ": " 131,835 ",
+            "percent": "97.07"
+        },
+        {
+            "Area code": "E06000030",
+            "Area name": "Swindon",
+            " number ": " 202,988 ",
+            "percent": "90.01"
+        },
+        {
+            "Area code": "E06000031",
+            "Area name": "Peterborough",
+            " number ": " 166,028 ",
+            "percent": "80.05"
+        },
+        {
+            "Area code": "E06000032",
+            "Area name": "Luton",
+            " number ": " 165,995 ",
+            "percent": "76.94"
+        },
+        {
+            "Area code": "E06000033",
+            "Area name": "Southend-on-Sea",
+            " number ": " 164,381 ",
+            "percent": "94.10"
+        },
+        {
+            "Area code": "E06000034",
+            "Area name": "Thurrock",
+            " number ": " 149,725 ",
+            "percent": "88.69"
+        },
+        {
+            "Area code": "E06000035",
+            "Area name": "Medway",
+            " number ": " 252,098 ",
+            "percent": "93.49"
+        },
+        {
+            "Area code": "E06000036",
+            "Area name": "Bracknell Forest",
+            " number ": " 111,127 ",
+            "percent": "92.30"
+        },
+        {
+            "Area code": "E06000037",
+            "Area name": "West Berkshire",
+            " number ": " 149,182 ",
+            "percent": "95.21"
+        },
+        {
+            "Area code": "E06000038",
+            "Area name": "Reading",
+            " number ": " 136,436 ",
+            "percent": "81.13"
+        },
+        {
+            "Area code": "E06000039",
+            "Area name": "Slough",
+            " number ": " 110,212 ",
+            "percent": "72.68"
+        },
+        {
+            "Area code": "E06000040",
+            "Area name": "Windsor and Maidenhead",
+            " number ": " 135,982 ",
+            "percent": "91.34"
+        },
+        {
+            "Area code": "E06000041",
+            "Area name": "Wokingham",
+            " number ": " 158,226 ",
+            "percent": "92.01"
+        },
+        {
+            "Area code": "E06000042",
+            "Area name": "Milton Keynes",
+            " number ": " 241,997 ",
+            "percent": "87.41"
+        },
+        {
+            "Area code": "E06000043",
+            "Area name": "Brighton and Hove",
+            " number ": " 245,614 ",
+            "percent": "90.90"
+        },
+        {
+            "Area code": "E06000044",
+            "Area name": "Portsmouth",
+            " number ": " 182,731 ",
+            "percent": "90.79"
+        },
+        {
+            "Area code": "E06000045",
+            "Area name": "Southampton",
+            " number ": " 203,603 ",
+            "percent": "84.61"
+        },
+        {
+            "Area code": "E06000046",
+            "Area name": "Isle of Wight",
+            " number ": " 134,738 ",
+            "percent": "98.14"
+        },
+        {
+            "Area code": "E06000047",
+            "Area name": "County Durham",
+            " number ": " 498,104 ",
+            "percent": "98.12"
+        },
+        {
+            "Area code": "E06000049",
+            "Area name": "Cheshire East",
+            " number ": " 370,917 ",
+            "percent": "95.76"
+        },
+        {
+            "Area code": "E06000050",
+            "Area name": "Cheshire West and Chester",
+            " number ": " 335,329 ",
+            "percent": "96.66"
+        },
+        {
+            "Area code": "E06000051",
+            "Area name": "Shropshire",
+            " number ": " 307,064 ",
+            "percent": "97.38"
+        },
+        {
+            "Area code": "E06000052",
+            "Area name": "Cornwall",
+            " number ": " 545,343 ",
+            "percent": "98.16"
+        },
+        {
+            "Area code": "E06000053",
+            "Area name": "Isles of Scilly",
+            " number ": " 1,940 ",
+            "percent": "97.68"
+        },
+        {
+            "Area code": "E06000054",
+            "Area name": "Wiltshire",
+            " number ": " 478,350 ",
+            "percent": "96.53"
+        },
+        {
+            "Area code": "E06000055",
+            "Area name": "Bedford",
+            " number ": " 156,968 ",
+            "percent": "87.85"
+        },
+        {
+            "Area code": "E06000056",
+            "Area name": "Central Bedfordshire",
+            " number ": " 269,941 ",
+            "percent": "95.15"
+        },
+        {
+            "Area code": "E06000057",
+            "Area name": "Northumberland",
+            " number ": " 308,943 ",
+            "percent": "98.88"
+        },
+        {
+            "Area code": "E06000058",
+            "Area name": "Bournemouth, Christchurch and Poole",
+            " number ": " 356,973 ",
+            "percent": "91.72"
+        },
+        {
+            "Area code": "E06000059",
+            "Area name": "Dorset",
+            " number ": " 364,215 ",
+            "percent": "98.17"
+        },
+        {
+            "Area code": "E06000060",
+            "Area name": "Buckinghamshire",
+            " number ": " 496,435 ",
+            "percent": "92.74"
+        },
+        {
+            "Area code": "E06000061",
+            "Area name": "North Northamptonshire",
+            " number ": " 314,820 ",
+            "percent": "90.55"
+        },
+        {
+            "Area code": "E06000062",
+            "Area name": "West Northamptonshire",
+            " number ": " 366,766 ",
+            "percent": "89.08"
+        },
+        {
+            "Area code": "E07000008",
+            "Area name": "Cambridge",
+            " number ": " 113,476 ",
+            "percent": "79.98"
+        },
+        {
+            "Area code": "E07000009",
+            "Area name": "East Cambridgeshire",
+            " number ": " 80,970 ",
+            "percent": "95.07"
+        },
+        {
+            "Area code": "E07000010",
+            "Area name": "Fenland",
+            " number ": " 90,632 ",
+            "percent": "91.15"
+        },
+        {
+            "Area code": "E07000011",
+            "Area name": "Huntingdonshire",
+            " number ": " 165,858 ",
+            "percent": "94.68"
+        },
+        {
+            "Area code": "E07000012",
+            "Area name": "South Cambridgeshire",
+            " number ": " 146,396 ",
+            "percent": "93.20"
+        },
+        {
+            "Area code": "E07000026",
+            "Area name": "Allerdale",
+            " number ": " 92,585 ",
+            "percent": "98.85"
+        },
+        {
+            "Area code": "E07000027",
+            "Area name": "Barrow-in-Furness",
+            " number ": " 64,323 ",
+            "percent": "98.40"
+        },
+        {
+            "Area code": "E07000028",
+            "Area name": "Carlisle",
+            " number ": " 103,048 ",
+            "percent": "96.44"
+        },
+        {
+            "Area code": "E07000029",
+            "Area name": "Copeland",
+            " number ": " 64,652 ",
+            "percent": "99.00"
+        },
+        {
+            "Area code": "E07000030",
+            "Area name": "Eden",
+            " number ": " 52,197 ",
+            "percent": "97.67"
+        },
+        {
+            "Area code": "E07000031",
+            "Area name": "South Lakeland",
+            " number ": " 99,599 ",
+            "percent": "97.46"
+        },
+        {
+            "Area code": "E07000032",
+            "Area name": "Amber Valley",
+            " number ": " 120,874 ",
+            "percent": "98.49"
+        },
+        {
+            "Area code": "E07000033",
+            "Area name": "Bolsover",
+            " number ": " 74,883 ",
+            "percent": "96.27"
+        },
+        {
+            "Area code": "E07000034",
+            "Area name": "Chesterfield",
+            " number ": " 98,352 ",
+            "percent": "97.76"
+        },
+        {
+            "Area code": "E07000035",
+            "Area name": "Derbyshire Dales",
+            " number ": " 69,373 ",
+            "percent": "99.06"
+        },
+        {
+            "Area code": "E07000036",
+            "Area name": "Erewash",
+            " number ": " 107,146 ",
+            "percent": "97.63"
+        },
+        {
+            "Area code": "E07000037",
+            "Area name": "High Peak",
+            " number ": " 87,308 ",
+            "percent": "98.70"
+        },
+        {
+            "Area code": "E07000038",
+            "Area name": "North East Derbyshire",
+            " number ": " 98,124 ",
+            "percent": "98.89"
+        },
+        {
+            "Area code": "E07000039",
+            "Area name": "South Derbyshire",
+            " number ": " 100,580 ",
+            "percent": "96.91"
+        },
+        {
+            "Area code": "E07000040",
+            "Area name": "East Devon",
+            " number ": " 144,297 ",
+            "percent": "98.11"
+        },
+        {
+            "Area code": "E07000041",
+            "Area name": "Exeter",
+            " number ": " 117,312 ",
+            "percent": "92.21"
+        },
+        {
+            "Area code": "E07000042",
+            "Area name": "Mid Devon",
+            " number ": " 78,357 ",
+            "percent": "97.34"
+        },
+        {
+            "Area code": "E07000043",
+            "Area name": "North Devon",
+            " number ": " 94,235 ",
+            "percent": "98.10"
+        },
+        {
+            "Area code": "E07000044",
+            "Area name": "South Hams",
+            " number ": " 85,427 ",
+            "percent": "98.59"
+        },
+        {
+            "Area code": "E07000045",
+            "Area name": "Teignbridge",
+            " number ": " 129,550 ",
+            "percent": "98.63"
+        },
+        {
+            "Area code": "E07000046",
+            "Area name": "Torridge",
+            " number ": " 65,812 ",
+            "percent": "98.98"
+        },
+        {
+            "Area code": "E07000047",
+            "Area name": "West Devon",
+            " number ": " 55,119 ",
+            "percent": "98.64"
+        },
+        {
+            "Area code": "E07000061",
+            "Area name": "Eastbourne",
+            " number ": " 91,681 ",
+            "percent": "92.66"
+        },
+        {
+            "Area code": "E07000062",
+            "Area name": "Hastings",
+            " number ": " 83,505 ",
+            "percent": "94.76"
+        },
+        {
+            "Area code": "E07000063",
+            "Area name": "Lewes",
+            " number ": " 94,527 ",
+            "percent": "97.12"
+        },
+        {
+            "Area code": "E07000064",
+            "Area name": "Rother",
+            " number ": " 89,169 ",
+            "percent": "98.05"
+        },
+        {
+            "Area code": "E07000065",
+            "Area name": "Wealden",
+            " number ": " 152,877 ",
+            "percent": "97.98"
+        },
+        {
+            "Area code": "E07000066",
+            "Area name": "Basildon",
+            " number ": " 171,066 ",
+            "percent": "94.86"
+        },
+        {
+            "Area code": "E07000067",
+            "Area name": "Braintree",
+            " number ": " 145,977 ",
+            "percent": "97.05"
+        },
+        {
+            "Area code": "E07000068",
+            "Area name": "Brentwood",
+            " number ": " 71,495 ",
+            "percent": "95.95"
+        },
+        {
+            "Area code": "E07000069",
+            "Area name": "Castle Point",
+            " number ": " 85,609 ",
+            "percent": "98.30"
+        },
+        {
+            "Area code": "E07000070",
+            "Area name": "Chelmsford",
+            " number ": " 166,881 ",
+            "percent": "94.88"
+        },
+        {
+            "Area code": "E07000071",
+            "Area name": "Colchester",
+            " number ": " 174,049 ",
+            "percent": "93.38"
+        },
+        {
+            "Area code": "E07000072",
+            "Area name": "Epping Forest",
+            " number ": " 122,312 ",
+            "percent": "93.95"
+        },
+        {
+            "Area code": "E07000073",
+            "Area name": "Harlow",
+            " number ": " 80,315 ",
+            "percent": "89.57"
+        },
+        {
+            "Area code": "E07000074",
+            "Area name": "Maldon",
+            " number ": " 63,685 ",
+            "percent": "98.79"
+        },
+        {
+            "Area code": "E07000075",
+            "Area name": "Rochford",
+            " number ": " 82,281 ",
+            "percent": "98.89"
+        },
+        {
+            "Area code": "E07000076",
+            "Area name": "Tendring",
+            " number ": " 142,078 ",
+            "percent": "98.37"
+        },
+        {
+            "Area code": "E07000077",
+            "Area name": "Uttlesford",
+            " number ": " 85,775 ",
+            "percent": "96.97"
+        },
+        {
+            "Area code": "E07000078",
+            "Area name": "Cheltenham",
+            " number ": " 107,474 ",
+            "percent": "93.10"
+        },
+        {
+            "Area code": "E07000079",
+            "Area name": "Cotswold",
+            " number ": " 86,541 ",
+            "percent": "97.78"
+        },
+        {
+            "Area code": "E07000080",
+            "Area name": "Forest of Dean",
+            " number ": " 83,112 ",
+            "percent": "98.14"
+        },
+        {
+            "Area code": "E07000081",
+            "Area name": "Gloucester",
+            " number ": " 117,816 ",
+            "percent": "91.99"
+        },
+        {
+            "Area code": "E07000082",
+            "Area name": "Stroud",
+            " number ": " 115,710 ",
+            "percent": "98.16"
+        },
+        {
+            "Area code": "E07000083",
+            "Area name": "Tewkesbury",
+            " number ": " 88,713 ",
+            "percent": "96.65"
+        },
+        {
+            "Area code": "E07000084",
+            "Area name": "Basingstoke and Deane",
+            " number ": " 166,352 ",
+            "percent": "92.94"
+        },
+        {
+            "Area code": "E07000085",
+            "Area name": "East Hampshire",
+            " number ": " 118,808 ",
+            "percent": "97.14"
+        },
+        {
+            "Area code": "E07000086",
+            "Area name": "Eastleigh",
+            " number ": " 127,157 ",
+            "percent": "96.32"
+        },
+        {
+            "Area code": "E07000087",
+            "Area name": "Fareham",
+            " number ": " 109,469 ",
+            "percent": "98.06"
+        },
+        {
+            "Area code": "E07000088",
+            "Area name": "Gosport",
+            " number ": " 77,655 ",
+            "percent": "97.74"
+        },
+        {
+            "Area code": "E07000089",
+            "Area name": "Hart",
+            " number ": " 92,848 ",
+            "percent": "96.29"
+        },
+        {
+            "Area code": "E07000090",
+            "Area name": "Havant",
+            " number ": " 118,081 ",
+            "percent": "97.86"
+        },
+        {
+            "Area code": "E07000091",
+            "Area name": "New Forest",
+            " number ": " 168,250 ",
+            "percent": "98.03"
+        },
+        {
+            "Area code": "E07000092",
+            "Area name": "Rushmoor",
+            " number ": " 81,544 ",
+            "percent": "84.97"
+        },
+        {
+            "Area code": "E07000093",
+            "Area name": "Test Valley",
+            " number ": " 121,171 ",
+            "percent": "95.78"
+        },
+        {
+            "Area code": "E07000094",
+            "Area name": "Winchester",
+            " number ": " 119,744 ",
+            "percent": "96.56"
+        },
+        {
+            "Area code": "E07000095",
+            "Area name": "Broxbourne",
+            " number ": " 86,883 ",
+            "percent": "90.95"
+        },
+        {
+            "Area code": "E07000096",
+            "Area name": "Dacorum",
+            " number ": " 140,193 ",
+            "percent": "93.77"
+        },
+        {
+            "Area code": "E07000098",
+            "Area name": "Hertsmere",
+            " number ": " 93,399 ",
+            "percent": "89.71"
+        },
+        {
+            "Area code": "E07000099",
+            "Area name": "North Hertfordshire",
+            " number ": " 123,183 ",
+            "percent": "95.66"
+        },
+        {
+            "Area code": "E07000102",
+            "Area name": "Three Rivers",
+            " number ": " 83,721 ",
+            "percent": "92.27"
+        },
+        {
+            "Area code": "E07000103",
+            "Area name": "Watford",
+            " number ": " 79,640 ",
+            "percent": "80.97"
+        },
+        {
+            "Area code": "E07000105",
+            "Area name": "Ashford",
+            " number ": " 119,669 ",
+            "percent": "93.22"
+        },
+        {
+            "Area code": "E07000106",
+            "Area name": "Canterbury",
+            " number ": " 145,109 ",
+            "percent": "94.56"
+        },
+        {
+            "Area code": "E07000107",
+            "Area name": "Dartford",
+            " number ": " 101,365 ",
+            "percent": "90.65"
+        },
+        {
+            "Area code": "E07000108",
+            "Area name": "Dover",
+            " number ": " 109,088 ",
+            "percent": "96.43"
+        },
+        {
+            "Area code": "E07000109",
+            "Area name": "Gravesham",
+            " number ": " 90,755 ",
+            "percent": "88.08"
+        },
+        {
+            "Area code": "E07000110",
+            "Area name": "Maidstone",
+            " number ": " 156,418 ",
+            "percent": "92.17"
+        },
+        {
+            "Area code": "E07000111",
+            "Area name": "Sevenoaks",
+            " number ": " 112,707 ",
+            "percent": "96.62"
+        },
+        {
+            "Area code": "E07000112",
+            "Area name": "Folkestone and Hythe",
+            " number ": " 101,622 ",
+            "percent": "95.18"
+        },
+        {
+            "Area code": "E07000113",
+            "Area name": "Swale",
+            " number ": " 140,922 ",
+            "percent": "96.20"
+        },
+        {
+            "Area code": "E07000114",
+            "Area name": "Thanet",
+            " number ": " 129,876 ",
+            "percent": "95.31"
+        },
+        {
+            "Area code": "E07000115",
+            "Area name": "Tonbridge and Malling",
+            " number ": " 123,859 ",
+            "percent": "96.90"
+        },
+        {
+            "Area code": "E07000116",
+            "Area name": "Tunbridge Wells",
+            " number ": " 105,831 ",
+            "percent": "94.70"
+        },
+        {
+            "Area code": "E07000117",
+            "Area name": "Burnley",
+            " number ": " 83,069 ",
+            "percent": "91.05"
+        },
+        {
+            "Area code": "E07000118",
+            "Area name": "Chorley",
+            " number ": " 111,825 ",
+            "percent": "97.81"
+        },
+        {
+            "Area code": "E07000119",
+            "Area name": "Fylde",
+            " number ": " 77,708 ",
+            "percent": "97.79"
+        },
+        {
+            "Area code": "E07000120",
+            "Area name": "Hyndburn",
+            " number ": " 74,580 ",
+            "percent": "94.00"
+        },
+        {
+            "Area code": "E07000121",
+            "Area name": "Lancaster",
+            " number ": " 131,571 ",
+            "percent": "94.70"
+        },
+        {
+            "Area code": "E07000122",
+            "Area name": "Pendle",
+            " number ": " 80,846 ",
+            "percent": "87.64"
+        },
+        {
+            "Area code": "E07000123",
+            "Area name": "Preston",
+            " number ": " 124,868 ",
+            "percent": "87.62"
+        },
+        {
+            "Area code": "E07000124",
+            "Area name": "Ribble Valley",
+            " number ": " 59,209 ",
+            "percent": "98.60"
+        },
+        {
+            "Area code": "E07000125",
+            "Area name": "Rossendale",
+            " number ": " 67,172 ",
+            "percent": "97.77"
+        },
+        {
+            "Area code": "E07000126",
+            "Area name": "South Ribble",
+            " number ": " 105,660 ",
+            "percent": "97.94"
+        },
+        {
+            "Area code": "E07000127",
+            "Area name": "West Lancashire",
+            " number ": " 110,645 ",
+            "percent": "96.72"
+        },
+        {
+            "Area code": "E07000128",
+            "Area name": "Wyre",
+            " number ": " 107,709 ",
+            "percent": "98.74"
+        },
+        {
+            "Area code": "E07000129",
+            "Area name": "Blaby",
+            " number ": " 94,369 ",
+            "percent": "94.70"
+        },
+        {
+            "Area code": "E07000130",
+            "Area name": "Charnwood",
+            " number ": " 166,768 ",
+            "percent": "93.34"
+        },
+        {
+            "Area code": "E07000131",
+            "Area name": "Harborough",
+            " number ": " 92,200 ",
+            "percent": "97.19"
+        },
+        {
+            "Area code": "E07000132",
+            "Area name": "Hinckley and Bosworth",
+            " number ": " 107,229 ",
+            "percent": "97.15"
+        },
+        {
+            "Area code": "E07000133",
+            "Area name": "Melton",
+            " number ": " 48,933 ",
+            "percent": "97.14"
+        },
+        {
+            "Area code": "E07000134",
+            "Area name": "North West Leicestershire",
+            " number ": " 98,440 ",
+            "percent": "97.00"
+        },
+        {
+            "Area code": "E07000135",
+            "Area name": "Oadby and Wigston",
+            " number ": " 50,500 ",
+            "percent": "89.93"
+        },
+        {
+            "Area code": "E07000136",
+            "Area name": "Boston",
+            " number ": " 54,259 ",
+            "percent": "79.29"
+        },
+        {
+            "Area code": "E07000137",
+            "Area name": "East Lindsey",
+            " number ": " 136,945 ",
+            "percent": "98.50"
+        },
+        {
+            "Area code": "E07000138",
+            "Area name": "Lincoln",
+            " number ": " 90,922 ",
+            "percent": "90.23"
+        },
+        {
+            "Area code": "E07000139",
+            "Area name": "North Kesteven",
+            " number ": " 112,662 ",
+            "percent": "97.99"
+        },
+        {
+            "Area code": "E07000140",
+            "Area name": "South Holland",
+            " number ": " 81,955 ",
+            "percent": "88.74"
+        },
+        {
+            "Area code": "E07000141",
+            "Area name": "South Kesteven",
+            " number ": " 133,578 ",
+            "percent": "95.71"
+        },
+        {
+            "Area code": "E07000142",
+            "Area name": "West Lindsey",
+            " number ": " 91,185 ",
+            "percent": "98.42"
+        },
+        {
+            "Area code": "E07000143",
+            "Area name": "Breckland",
+            " number ": " 128,814 ",
+            "percent": "93.66"
+        },
+        {
+            "Area code": "E07000144",
+            "Area name": "Broadland",
+            " number ": " 125,893 ",
+            "percent": "98.09"
+        },
+        {
+            "Area code": "E07000145",
+            "Area name": "Great Yarmouth",
+            " number ": " 90,758 ",
+            "percent": "93.68"
+        },
+        {
+            "Area code": "E07000146",
+            "Area name": "King's Lynn and West Norfolk",
+            " number ": " 141,439 ",
+            "percent": "94.24"
+        },
+        {
+            "Area code": "E07000147",
+            "Area name": "North Norfolk",
+            " number ": " 99,615 ",
+            "percent": "98.70"
+        },
+        {
+            "Area code": "E07000148",
+            "Area name": "Norwich",
+            " number ": " 125,783 ",
+            "percent": "89.95"
+        },
+        {
+            "Area code": "E07000149",
+            "Area name": "South Norfolk",
+            " number ": " 134,429 ",
+            "percent": "97.43"
+        },
+        {
+            "Area code": "E07000163",
+            "Area name": "Craven",
+            " number ": " 54,685 ",
+            "percent": "98.38"
+        },
+        {
+            "Area code": "E07000164",
+            "Area name": "Hambleton",
+            " number ": " 87,178 ",
+            "percent": "98.49"
+        },
+        {
+            "Area code": "E07000165",
+            "Area name": "Harrogate",
+            " number ": " 153,513 ",
+            "percent": "96.83"
+        },
+        {
+            "Area code": "E07000166",
+            "Area name": "Richmondshire",
+            " number ": " 46,839 ",
+            "percent": "96.71"
+        },
+        {
+            "Area code": "E07000167",
+            "Area name": "Ryedale",
+            " number ": " 52,203 ",
+            "percent": "97.83"
+        },
+        {
+            "Area code": "E07000168",
+            "Area name": "Scarborough",
+            " number ": " 102,837 ",
+            "percent": "97.02"
+        },
+        {
+            "Area code": "E07000169",
+            "Area name": "Selby",
+            " number ": " 86,596 ",
+            "percent": "97.18"
+        },
+        {
+            "Area code": "E07000170",
+            "Area name": "Ashfield",
+            " number ": " 118,470 ",
+            "percent": "96.78"
+        },
+        {
+            "Area code": "E07000171",
+            "Area name": "Bassetlaw",
+            " number ": " 109,625 ",
+            "percent": "95.84"
+        },
+        {
+            "Area code": "E07000172",
+            "Area name": "Broxtowe",
+            " number ": " 102,537 ",
+            "percent": "95.03"
+        },
+        {
+            "Area code": "E07000173",
+            "Area name": "Gedling",
+            " number ": " 110,090 ",
+            "percent": "96.76"
+        },
+        {
+            "Area code": "E07000174",
+            "Area name": "Mansfield",
+            " number ": " 98,681 ",
+            "percent": "92.22"
+        },
+        {
+            "Area code": "E07000175",
+            "Area name": "Newark and Sherwood",
+            " number ": " 114,535 ",
+            "percent": "95.91"
+        },
+        {
+            "Area code": "E07000176",
+            "Area name": "Rushcliffe",
+            " number ": " 112,214 ",
+            "percent": "96.97"
+        },
+        {
+            "Area code": "E07000177",
+            "Area name": "Cherwell",
+            " number ": " 141,071 ",
+            "percent": "90.72"
+        },
+        {
+            "Area code": "E07000178",
+            "Area name": "Oxford",
+            " number ": " 129,117 ",
+            "percent": "81.86"
+        },
+        {
+            "Area code": "E07000179",
+            "Area name": "South Oxfordshire",
+            " number ": " 137,542 ",
+            "percent": "95.20"
+        },
+        {
+            "Area code": "E07000180",
+            "Area name": "Vale of White Horse",
+            " number ": " 126,892 ",
+            "percent": "94.43"
+        },
+        {
+            "Area code": "E07000181",
+            "Area name": "West Oxfordshire",
+            " number ": " 106,785 ",
+            "percent": "96.35"
+        },
+        {
+            "Area code": "E07000187",
+            "Area name": "Mendip",
+            " number ": " 109,713 ",
+            "percent": "97.18"
+        },
+        {
+            "Area code": "E07000188",
+            "Area name": "Sedgemoor",
+            " number ": " 116,143 ",
+            "percent": "95.29"
+        },
+        {
+            "Area code": "E07000189",
+            "Area name": "South Somerset",
+            " number ": " 160,744 ",
+            "percent": "95.76"
+        },
+        {
+            "Area code": "E07000192",
+            "Area name": "Cannock Chase",
+            " number ": " 95,458 ",
+            "percent": "98.23"
+        },
+        {
+            "Area code": "E07000193",
+            "Area name": "East Staffordshire",
+            " number ": " 107,976 ",
+            "percent": "90.02"
+        },
+        {
+            "Area code": "E07000194",
+            "Area name": "Lichfield",
+            " number ": " 101,315 ",
+            "percent": "97.95"
+        },
+        {
+            "Area code": "E07000195",
+            "Area name": "Newcastle-under-Lyme",
+            " number ": " 115,774 ",
+            "percent": "96.53"
+        },
+        {
+            "Area code": "E07000196",
+            "Area name": "South Staffordshire",
+            " number ": " 106,341 ",
+            "percent": "98.79"
+        },
+        {
+            "Area code": "E07000197",
+            "Area name": "Stafford",
+            " number ": " 128,218 ",
+            "percent": "96.48"
+        },
+        {
+            "Area code": "E07000198",
+            "Area name": "Staffordshire Moorlands",
+            " number ": " 92,663 ",
+            "percent": "99.12"
+        },
+        {
+            "Area code": "E07000199",
+            "Area name": "Tamworth",
+            " number ": " 72,762 ",
+            "percent": "95.67"
+        },
+        {
+            "Area code": "E07000200",
+            "Area name": "Babergh",
+            " number ": " 88,494 ",
+            "percent": "98.27"
+        },
+        {
+            "Area code": "E07000202",
+            "Area name": "Ipswich",
+            " number ": " 118,944 ",
+            "percent": "88.25"
+        },
+        {
+            "Area code": "E07000203",
+            "Area name": "Mid Suffolk",
+            " number ": " 98,582 ",
+            "percent": "98.52"
+        },
+        {
+            "Area code": "E07000207",
+            "Area name": "Elmbridge",
+            " number ": " 124,800 ",
+            "percent": "93.14"
+        },
+        {
+            "Area code": "E07000208",
+            "Area name": "Epsom and Ewell",
+            " number ": " 71,308 ",
+            "percent": "91.04"
+        },
+        {
+            "Area code": "E07000209",
+            "Area name": "Guildford",
+            " number ": " 128,423 ",
+            "percent": "91.91"
+        },
+        {
+            "Area code": "E07000210",
+            "Area name": "Mole Valley",
+            " number ": " 81,957 ",
+            "percent": "96.34"
+        },
+        {
+            "Area code": "E07000211",
+            "Area name": "Reigate and Banstead",
+            " number ": " 136,506 ",
+            "percent": "93.77"
+        },
+        {
+            "Area code": "E07000212",
+            "Area name": "Runnymede",
+            " number ": " 78,275 ",
+            "percent": "91.83"
+        },
+        {
+            "Area code": "E07000213",
+            "Area name": "Spelthorne",
+            " number ": " 89,348 ",
+            "percent": "89.91"
+        },
+        {
+            "Area code": "E07000214",
+            "Area name": "Surrey Heath",
+            " number ": " 82,147 ",
+            "percent": "93.48"
+        },
+        {
+            "Area code": "E07000215",
+            "Area name": "Tandridge",
+            " number ": " 82,330 ",
+            "percent": "96.91"
+        },
+        {
+            "Area code": "E07000216",
+            "Area name": "Waverley",
+            " number ": " 120,024 ",
+            "percent": "96.35"
+        },
+        {
+            "Area code": "E07000217",
+            "Area name": "Woking",
+            " number ": " 89,042 ",
+            "percent": "88.81"
+        },
+        {
+            "Area code": "E07000218",
+            "Area name": "North Warwickshire",
+            " number ": " 61,897 ",
+            "percent": "98.00"
+        },
+        {
+            "Area code": "E07000219",
+            "Area name": "Nuneaton and Bedworth",
+            " number ": " 120,055 ",
+            "percent": "92.63"
+        },
+        {
+            "Area code": "E07000220",
+            "Area name": "Rugby",
+            " number ": " 97,906 ",
+            "percent": "88.48"
+        },
+        {
+            "Area code": "E07000221",
+            "Area name": "Stratford-on-Avon",
+            " number ": " 126,693 ",
+            "percent": "96.61"
+        },
+        {
+            "Area code": "E07000222",
+            "Area name": "Warwick",
+            " number ": " 131,957 ",
+            "percent": "91.61"
+        },
+        {
+            "Area code": "E07000223",
+            "Area name": "Adur",
+            " number ": " 60,751 ",
+            "percent": "96.86"
+        },
+        {
+            "Area code": "E07000224",
+            "Area name": "Arun",
+            " number ": " 151,197 ",
+            "percent": "94.11"
+        },
+        {
+            "Area code": "E07000225",
+            "Area name": "Chichester",
+            " number ": " 116,962 ",
+            "percent": "96.68"
+        },
+        {
+            "Area code": "E07000226",
+            "Area name": "Crawley",
+            " number ": " 96,070 ",
+            "percent": "84.33"
+        },
+        {
+            "Area code": "E07000227",
+            "Area name": "Horsham",
+            " number ": " 137,720 ",
+            "percent": "96.62"
+        },
+        {
+            "Area code": "E07000228",
+            "Area name": "Mid Sussex",
+            " number ": " 141,876 ",
+            "percent": "95.97"
+        },
+        {
+            "Area code": "E07000229",
+            "Area name": "Worthing",
+            " number ": " 102,364 ",
+            "percent": "94.67"
+        },
+        {
+            "Area code": "E07000234",
+            "Area name": "Bromsgrove",
+            " number ": " 94,769 ",
+            "percent": "98.46"
+        },
+        {
+            "Area code": "E07000235",
+            "Area name": "Malvern Hills",
+            " number ": " 76,251 ",
+            "percent": "98.10"
+        },
+        {
+            "Area code": "E07000236",
+            "Area name": "Redditch",
+            " number ": " 77,713 ",
+            "percent": "92.40"
+        },
+        {
+            "Area code": "E07000237",
+            "Area name": "Worcester",
+            " number ": " 92,870 ",
+            "percent": "92.23"
+        },
+        {
+            "Area code": "E07000238",
+            "Area name": "Wychavon",
+            " number ": " 122,824 ",
+            "percent": "95.29"
+        },
+        {
+            "Area code": "E07000239",
+            "Area name": "Wyre Forest",
+            " number ": " 96,531 ",
+            "percent": "97.64"
+        },
+        {
+            "Area code": "E07000240",
+            "Area name": "St Albans",
+            " number ": " 134,129 ",
+            "percent": "93.67"
+        },
+        {
+            "Area code": "E07000241",
+            "Area name": "Welwyn Hatfield",
+            " number ": " 103,815 ",
+            "percent": "89.52"
+        },
+        {
+            "Area code": "E07000242",
+            "Area name": "East Hertfordshire",
+            " number ": " 138,584 ",
+            "percent": "95.39"
+        },
+        {
+            "Area code": "E07000243",
+            "Area name": "Stevenage",
+            " number ": " 79,174 ",
+            "percent": "91.85"
+        },
+        {
+            "Area code": "E07000244",
+            "Area name": "East Suffolk",
+            " number ": " 235,021 ",
+            "percent": "97.93"
+        },
+        {
+            "Area code": "E07000245",
+            "Area name": "West Suffolk",
+            " number ": " 164,367 ",
+            "percent": "94.39"
+        },
+        {
+            "Area code": "E07000246",
+            "Area name": "Somerset West and Taunton",
+            " number ": " 146,313 ",
+            "percent": "95.54"
+        },
+        {
+            "Area code": "E08000001",
+            "Area name": "Bolton",
+            " number ": " 253,869 ",
+            "percent": "89.05"
+        },
+        {
+            "Area code": "E08000002",
+            "Area name": "Bury",
+            " number ": " 174,961 ",
+            "percent": "93.45"
+        },
+        {
+            "Area code": "E08000003",
+            "Area name": "Manchester",
+            " number ": " 434,289 ",
+            "percent": "81.71"
+        },
+        {
+            "Area code": "E08000004",
+            "Area name": "Oldham",
+            " number ": " 207,898 ",
+            "percent": "89.34"
+        },
+        {
+            "Area code": "E08000005",
+            "Area name": "Rochdale",
+            " number ": " 194,800 ",
+            "percent": "90.54"
+        },
+        {
+            "Area code": "E08000006",
+            "Area name": "Salford",
+            " number ": " 229,864 ",
+            "percent": "88.62"
+        },
+        {
+            "Area code": "E08000007",
+            "Area name": "Stockport",
+            " number ": " 272,788 ",
+            "percent": "95.70"
+        },
+        {
+            "Area code": "E08000008",
+            "Area name": "Tameside",
+            " number ": " 209,879 ",
+            "percent": "94.10"
+        },
+        {
+            "Area code": "E08000009",
+            "Area name": "Trafford",
+            " number ": " 211,103 ",
+            "percent": "92.84"
+        },
+        {
+            "Area code": "E08000010",
+            "Area name": "Wigan",
+            " number ": " 307,912 ",
+            "percent": "96.49"
+        },
+        {
+            "Area code": "E08000011",
+            "Area name": "Knowsley",
+            " number ": " 144,261 ",
+            "percent": "96.97"
+        },
+        {
+            "Area code": "E08000012",
+            "Area name": "Liverpool",
+            " number ": " 425,452 ",
+            "percent": "90.44"
+        },
+        {
+            "Area code": "E08000013",
+            "Area name": "St. Helens",
+            " number ": " 172,666 ",
+            "percent": "97.22"
+        },
+        {
+            "Area code": "E08000014",
+            "Area name": "Sefton",
+            " number ": " 261,763 ",
+            "percent": "96.45"
+        },
+        {
+            "Area code": "E08000015",
+            "Area name": "Wirral",
+            " number ": " 303,454 ",
+            "percent": "97.67"
+        },
+        {
+            "Area code": "E08000016",
+            "Area name": "Barnsley",
+            " number ": " 226,571 ",
+            "percent": "95.72"
+        },
+        {
+            "Area code": "E08000017",
+            "Area name": "Doncaster",
+            " number ": " 276,387 ",
+            "percent": "92.76"
+        },
+        {
+            "Area code": "E08000018",
+            "Area name": "Rotherham",
+            " number ": " 246,654 ",
+            "percent": "95.86"
+        },
+        {
+            "Area code": "E08000019",
+            "Area name": "Sheffield",
+            " number ": " 491,478 ",
+            "percent": "91.22"
+        },
+        {
+            "Area code": "E08000021",
+            "Area name": "Newcastle upon Tyne",
+            " number ": " 260,069 ",
+            "percent": "89.38"
+        },
+        {
+            "Area code": "E08000022",
+            "Area name": "North Tyneside",
+            " number ": " 197,592 ",
+            "percent": "97.54"
+        },
+        {
+            "Area code": "E08000023",
+            "Area name": "South Tyneside",
+            " number ": " 140,074 ",
+            "percent": "97.74"
+        },
+        {
+            "Area code": "E08000024",
+            "Area name": "Sunderland",
+            " number ": " 259,351 ",
+            "percent": "97.41"
+        },
+        {
+            "Area code": "E08000025",
+            "Area name": "Birmingham",
+            " number ": " 929,445 ",
+            "percent": "84.43"
+        },
+        {
+            "Area code": "E08000026",
+            "Area name": "Coventry",
+            " number ": " 274,880 ",
+            "percent": "82.49"
+        },
+        {
+            "Area code": "E08000027",
+            "Area name": "Dudley",
+            " number ": " 298,942 ",
+            "percent": "95.55"
+        },
+        {
+            "Area code": "E08000028",
+            "Area name": "Sandwell",
+            " number ": " 274,709 ",
+            "percent": "83.56"
+        },
+        {
+            "Area code": "E08000029",
+            "Area name": "Solihull",
+            " number ": " 200,119 ",
+            "percent": "95.50"
+        },
+        {
+            "Area code": "E08000030",
+            "Area name": "Walsall",
+            " number ": " 246,705 ",
+            "percent": "90.23"
+        },
+        {
+            "Area code": "E08000031",
+            "Area name": "Wolverhampton",
+            " number ": " 215,986 ",
+            "percent": "84.98"
+        },
+        {
+            "Area code": "E08000032",
+            "Area name": "Bradford",
+            " number ": " 459,904 ",
+            "percent": "87.58"
+        },
+        {
+            "Area code": "E08000033",
+            "Area name": "Calderdale",
+            " number ": " 190,762 ",
+            "percent": "95.35"
+        },
+        {
+            "Area code": "E08000034",
+            "Area name": "Kirklees",
+            " number ": " 386,069 ",
+            "percent": "92.25"
+        },
+        {
+            "Area code": "E08000035",
+            "Area name": "Leeds",
+            " number ": " 713,111 ",
+            "percent": "90.91"
+        },
+        {
+            "Area code": "E08000036",
+            "Area name": "Wakefield",
+            " number ": " 322,562 ",
+            "percent": "94.46"
+        },
+        {
+            "Area code": "E08000037",
+            "Area name": "Gateshead",
+            " number ": " 182,293 ",
+            "percent": "95.79"
+        },
+        {
+            "Area code": "E09000001",
+            "Area name": "City of London",
+            " number ": " 6,624 ",
+            "percent": "78.39"
+        },
+        {
+            "Area code": "E09000002",
+            "Area name": "Barking and Dagenham",
+            " number ": " 158,652 ",
+            "percent": "75.95"
+        },
+        {
+            "Area code": "E09000003",
+            "Area name": "Barnet",
+            " number ": " 289,057 ",
+            "percent": "77.06"
+        },
+        {
+            "Area code": "E09000004",
+            "Area name": "Bexley",
+            " number ": " 214,970 ",
+            "percent": "90.47"
+        },
+        {
+            "Area code": "E09000005",
+            "Area name": "Brent",
+            " number ": " 217,371 ",
+            "percent": "66.32"
+        },
+        {
+            "Area code": "E09000006",
+            "Area name": "Bromley",
+            " number ": " 292,904 ",
+            "percent": "91.93"
+        },
+        {
+            "Area code": "E09000007",
+            "Area name": "Camden",
+            " number ": " 160,655 ",
+            "percent": "78.74"
+        },
+        {
+            "Area code": "E09000008",
+            "Area name": "Croydon",
+            " number ": " 315,336 ",
+            "percent": "83.96"
+        },
+        {
+            "Area code": "E09000009",
+            "Area name": "Ealing",
+            " number ": " 244,855 ",
+            "percent": "69.10"
+        },
+        {
+            "Area code": "E09000010",
+            "Area name": "Enfield",
+            " number ": " 242,839 ",
+            "percent": "76.45"
+        },
+        {
+            "Area code": "E09000011",
+            "Area name": "Greenwich",
+            " number ": " 227,031 ",
+            "percent": "81.78"
+        },
+        {
+            "Area code": "E09000012",
+            "Area name": "Hackney",
+            " number ": " 199,667 ",
+            "percent": "80.13"
+        },
+        {
+            "Area code": "E09000013",
+            "Area name": "Hammersmith and Fulham",
+            " number ": " 139,670 ",
+            "percent": "78.63"
+        },
+        {
+            "Area code": "E09000014",
+            "Area name": "Haringey",
+            " number ": " 185,666 ",
+            "percent": "72.77"
+        },
+        {
+            "Area code": "E09000015",
+            "Area name": "Harrow",
+            " number ": " 174,443 ",
+            "percent": "69.26"
+        },
+        {
+            "Area code": "E09000016",
+            "Area name": "Havering",
+            " number ": " 227,346 ",
+            "percent": "90.12"
+        },
+        {
+            "Area code": "E09000017",
+            "Area name": "Hillingdon",
+            " number ": " 229,263 ",
+            "percent": "77.92"
+        },
+        {
+            "Area code": "E09000018",
+            "Area name": "Hounslow",
+            " number ": " 198,853 ",
+            "percent": "71.68"
+        },
+        {
+            "Area code": "E09000019",
+            "Area name": "Islington",
+            " number ": " 169,831 ",
+            "percent": "81.01"
+        },
+        {
+            "Area code": "E09000020",
+            "Area name": "Kensington and Chelsea",
+            " number ": " 106,682 ",
+            "percent": "76.40"
+        },
+        {
+            "Area code": "E09000021",
+            "Area name": "Kingston upon Thames",
+            " number ": " 134,395 ",
+            "percent": "82.71"
+        },
+        {
+            "Area code": "E09000022",
+            "Area name": "Lambeth",
+            " number ": " 253,317 ",
+            "percent": "82.16"
+        },
+        {
+            "Area code": "E09000023",
+            "Area name": "Lewisham",
+            " number ": " 242,028 ",
+            "percent": "83.78"
+        },
+        {
+            "Area code": "E09000024",
+            "Area name": "Merton",
+            " number ": " 162,563 ",
+            "percent": "78.55"
+        },
+        {
+            "Area code": "E09000025",
+            "Area name": "Newham",
+            " number ": " 220,022 ",
+            "percent": "65.37"
+        },
+        {
+            "Area code": "E09000026",
+            "Area name": "Redbridge",
+            " number ": " 218,924 ",
+            "percent": "73.55"
+        },
+        {
+            "Area code": "E09000027",
+            "Area name": "Richmond upon Thames",
+            " number ": " 167,514 ",
+            "percent": "88.69"
+        },
+        {
+            "Area code": "E09000028",
+            "Area name": "Southwark",
+            " number ": " 244,002 ",
+            "percent": "81.96"
+        },
+        {
+            "Area code": "E09000029",
+            "Area name": "Sutton",
+            " number ": " 173,379 ",
+            "percent": "85.73"
+        },
+        {
+            "Area code": "E09000030",
+            "Area name": "Tower Hamlets",
+            " number ": " 218,131 ",
+            "percent": "73.01"
+        },
+        {
+            "Area code": "E09000031",
+            "Area name": "Waltham Forest",
+            " number ": " 206,863 ",
+            "percent": "77.58"
+        },
+        {
+            "Area code": "E09000032",
+            "Area name": "Wandsworth",
+            " number ": " 261,751 ",
+            "percent": "82.87"
+        },
+        {
+            "Area code": "E09000033",
+            "Area name": "Westminster",
+            " number ": " 146,375 ",
+            "percent": "73.56"
+        },
+        {
+            "Area code": "W06000001",
+            "Area name": "Isle of Anglesey",
+            " number ": " 66,462 ",
+            "percent": "99.07"
+        },
+        {
+            "Area code": "W06000002",
+            "Area name": "Gwynedd",
+            " number ": " 111,446 ",
+            "percent": "97.50"
+        },
+        {
+            "Area code": "W06000003",
+            "Area name": "Conwy",
+            " number ": " 109,757 ",
+            "percent": "98.16"
+        },
+        {
+            "Area code": "W06000004",
+            "Area name": "Denbighshire",
+            " number ": " 91,451 ",
+            "percent": "98.27"
+        },
+        {
+            "Area code": "W06000005",
+            "Area name": "Flintshire",
+            " number ": " 145,037 ",
+            "percent": "96.33"
+        },
+        {
+            "Area code": "W06000006",
+            "Area name": "Wrexham",
+            " number ": " 124,402 ",
+            "percent": "94.90"
+        },
+        {
+            "Area code": "W06000008",
+            "Area name": "Ceredigion",
+            " number ": " 67,848 ",
+            "percent": "97.05"
+        },
+        {
+            "Area code": "W06000009",
+            "Area name": "Pembrokeshire",
+            " number ": " 118,571 ",
+            "percent": "98.64"
+        },
+        {
+            "Area code": "W06000010",
+            "Area name": "Carmarthenshire",
+            " number ": " 178,287 ",
+            "percent": "97.57"
+        },
+        {
+            "Area code": "W06000011",
+            "Area name": "Swansea",
+            " number ": " 220,870 ",
+            "percent": "95.25"
+        },
+        {
+            "Area code": "W06000012",
+            "Area name": "Neath Port Talbot",
+            " number ": " 136,319 ",
+            "percent": "98.55"
+        },
+        {
+            "Area code": "W06000013",
+            "Area name": "Bridgend",
+            " number ": " 138,807 ",
+            "percent": "98.24"
+        },
+        {
+            "Area code": "W06000014",
+            "Area name": "Vale of Glamorgan",
+            " number ": " 125,798 ",
+            "percent": "98.22"
+        },
+        {
+            "Area code": "W06000015",
+            "Area name": "Cardiff",
+            " number ": " 320,150 ",
+            "percent": "91.15"
+        },
+        {
+            "Area code": "W06000016",
+            "Area name": "Rhondda Cynon Taf",
+            " number ": " 226,867 ",
+            "percent": "98.50"
+        },
+        {
+            "Area code": "W06000018",
+            "Area name": "Caerphilly",
+            " number ": " 168,653 ",
+            "percent": "98.80"
+        },
+        {
+            "Area code": "W06000019",
+            "Area name": "Blaenau Gwent",
+            " number ": " 63,594 ",
+            "percent": "98.14"
+        },
+        {
+            "Area code": "W06000020",
+            "Area name": "Torfaen",
+            " number ": " 88,059 ",
+            "percent": "98.53"
+        },
+        {
+            "Area code": "W06000021",
+            "Area name": "Monmouthshire",
+            " number ": " 89,231 ",
+            "percent": "98.39"
+        },
+        {
+            "Area code": "W06000022",
+            "Area name": "Newport",
+            " number ": " 143,840 ",
+            "percent": "93.48"
+        },
+        {
+            "Area code": "W06000023",
+            "Area name": "Powys",
+            " number ": " 127,410 ",
+            "percent": "98.08"
+        },
+        {
+            "Area code": "W06000024",
+            "Area name": "Merthyr Tydfil",
+            " number ": " 54,784 ",
+            "percent": "96.18"
+        }
+    ]
